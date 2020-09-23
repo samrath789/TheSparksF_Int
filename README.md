@@ -2,4 +2,4 @@
 
 TASK 5:
 
-EXPONATORY ANALYSIS OF SAMPLE SUPERSTORE DATA.
+Exploratory Data Analysis of Sample Superstore Data.
